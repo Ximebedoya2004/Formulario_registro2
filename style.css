@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: powderblue;
+    margin-bottom: 30px;
+    padding: 150px;
+    
+}
+form{  
+    margin: 0 auto;
+    width: 300px;
+    background-color:gainsboro;
+    padding: 120px;
+    border-radius: 10px;
+ }
+    
+input{
+    padding: 5px;
+    border-radius: 0,5rem;
+     
+}
+    
